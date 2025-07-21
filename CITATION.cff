@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use or refer to the CAFE Playbook in your work, please cite it using the metadata below."
+title: "CAFE Playbook"
+type: software
+date-released: 2023-04-05
+authors:
+  - family-names: Moopen
+    given-names: Neha
+  - family-names: Cryan
+    given-names: Ashley
+  - family-names: de Bruin
+    given-names: Jonathan
+  - family-names: Treep
+    given-names: Jelle
+  - family-names: van de Sandt
+    given-names: Stephanie
+  - family-names: Vermaas
+    given-names: Meron
+  - family-names: Karvovskaya
+    given-names: Lena
+  - family-names: Wilczynska
+    given-names: Aleks
+  - family-names: Kirsch
+    given-names: Stefan
+repository-code: "https://github.com/code-cafes-nl/cafe_playbook"
+url: "https://code‑cafes‑nl.github.io/cafe_playbook/"
+license: "CC-BY-4.0"
+keywords:
+  - cafe
+  - coding-cafe
+  - programming-cafe
+  - programming‑communities
+  - research‑software
+  - fair
+  - open-science
+  - learning
