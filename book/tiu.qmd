@@ -22,6 +22,8 @@ Participants are also welcome to stray off and find some peers to take a look at
 
 **Time**: 11:00 - 13:00 hrs
 
+**Frequency**: Bi-monthly
+
 **Preparation**: Bring your own laptop
 
 ## Who can attend?
@@ -30,7 +32,7 @@ The Coding Café is open to all researchers (including PhDs), support staff and 
 
 ## Materials
 
-The materials of the invited talks can be found on [GitLab](https://gitlab.uvt.nl/coding-caf/gitlab-profile) where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.
+The materials of the invited talks can be found on [GitLab](https://gitlab.uvt.nl/coding-caf) where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.
 
 ## Funding
 
