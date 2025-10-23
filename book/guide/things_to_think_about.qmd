@@ -1,0 +1,42 @@
+# Things to think about
+
+Before starting your own coding CAFE there are a few things you should think about in preparation. 
+
+
+## When?
+
+Ideally your CAFE is at a regular interval on the same day at the same time.
+What day works best for you? What day are there most liekly to be participants around?
+
+What time is convenient in your schedule? Do you or many researchers live further away? Then perhaps a lunch meet is better than an evening one
+
+## Where?
+
+When choosing a room it is again best if you can regularly use the same location to avoid confusion. Consider the needs of your sessions, if food is provided it needs to be allowed in the room. HOw many plug sockets are there? Is there a second screen available? Does the capacity match your desired maximum group size? Can attendees sit comfortably to follow along?
+
+
+## What?
+
+food type		- 
+name			- 
+language		- 
+
+
+## Who?
+
+Who is the target audience here? Students? PhD? Researchers? Programming beginners? Intermediate? Pros?
+
+level			- 
+
+## How?
+
+
+
+using the template	- 
+create event and advertise early - 
+speak to data/software stewards to get the word out - 
+working with anyone	- 
+material		- 
+freebies		- 
+
+This list can be expanded and converted into a nice check list for easy referral.

@@ -1,0 +1,1 @@
+This file is to be populated with questions that arise from newcomers and contributors along with their answers. Additionally expected questions will be provided with answers here and questions raised as project issues.
